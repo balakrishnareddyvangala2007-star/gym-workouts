@@ -1,0 +1,6 @@
+{
+  "name": "Fierce Fitness Gym",
+  "description": "Premium gym landing page for Fierce Fitness Gym in Gundlapochampally, Hyderabad. Features 5.0 Google rating, imported equipment, certified trainers, membership plans, and instant trial booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
